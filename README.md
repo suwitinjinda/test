@@ -1,1 +1,2 @@
-# test
+# react-docker
+Simple React with docker
