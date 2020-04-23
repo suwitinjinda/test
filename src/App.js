@@ -19,6 +19,7 @@ function App() {
           Learn React
           I am suwit.injinda.
         </a>
+        <p>are you ready to learn?</p>
       </header>
     </div>
   );
